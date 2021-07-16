@@ -1,0 +1,16 @@
+node_modules/
+.git/
+tags
+tags.*
+dist/
+build/
+pg/
+
+.cache/
+
+# phoenix
+deps/
+_build/
+.elixir_ls
+assets/
+priv/
