@@ -39,6 +39,9 @@ const IndexPage = () => {
                 <li>
                     <a href="/works">/works</a>
                 </li>
+                <li>
+                    <a href="/it_(works_with_regex)">/it_(works_with_regex)</a>
+                </li>
             </ul>
             <p>This doesn't work:</p>
             <ul>
