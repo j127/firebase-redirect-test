@@ -13,6 +13,11 @@ const IndexPage = () => {
                     "type": 301
                 },
                 {
+                    "regex": "/it_\\(works_with_regex\\)",
+                    "destination": "/it-worked/",
+                    "type": 301
+                },
+                {
                     "source": "/it_(doesnt_work)",
                     "destination": "/it-worked/",
                     "type": 301
