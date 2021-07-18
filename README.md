@@ -15,3 +15,5 @@ Deploy to Firebase Hosting:
 ```text
 $ npm run deploy
 ```
+
+**Update:** it works with `regex` but not with `source`.
